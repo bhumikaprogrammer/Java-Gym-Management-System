@@ -1,0 +1,2 @@
+ID    Name            Location        Phone           Email                     Membership Start Date Plan       Price      Attendance Loyalty Points  Active Status Full Payment    Discount Amount Net Amount Paid
+1     kqc             ccc             9863751872      bcdjb@gmail.com           2025-01-01           basic      6500.0     0          0.00            Inactive   N/A             N/A             N/A            
